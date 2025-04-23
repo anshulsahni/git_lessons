@@ -1,0 +1,7 @@
+- commit - smallest unit of work
+- branches - collection of commits
+   - default branch -> name of the branch is "main"
+   - but you can create as many branches as possible
+
+git init - initialise the repository
+git add <file_name> - add the file to stage
