@@ -5,3 +5,7 @@
 
 git init - initialise the repository
 git add <file_name> - add the file to stage
+git commit -m <commit message> - will commit the file
+git log - list all the commits of the current branch in decreasing order
+git status - gets the current status of all the files
+git diff - checks the difference in content of changed files
